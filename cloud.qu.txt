@@ -1,0 +1,3 @@
+
+In Dynamo DB, If an item size is more than the aggregate size, how it can be handled? How many RCUs are required to deal with 1000 KB of data if a strongly consistent and eventually consistent read is used? What is the aggregate size of an item including keys and all attributes? 
+Evaluate total cost if accessing cost of a resource is 5 $, and an application is accessing 15 instances of that resource for 40 hrs. What are the other factors that affect final cost for accessing a resource?
