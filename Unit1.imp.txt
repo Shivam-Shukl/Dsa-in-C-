@@ -1,5 +1,0 @@
-Layers of cloud architecture
-components
-softaware as sevice
-deployment model
-cloud computing vnedors
